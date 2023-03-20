@@ -8,4 +8,6 @@ For sample task I've taken the only active NLP task: https://www.kaggle.com/comp
 
 All solutions are located in the `test_solution_kaggle.ipynb`. The process of solution is explained in details. 
 
+KAggle folder contains datasets and embedding file
+
 Kaggle final score: 
