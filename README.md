@@ -1,5 +1,6 @@
 ﻿# TeliaTestTask
-###Author: Valerina Jerina
+ 
+##Author: Valerina Jerina
 
 This gitHub directory is a submission of Telia internship test task. 
 
