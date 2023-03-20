@@ -7,4 +7,4 @@ For sample task I've taken the only active NLP task: https://www.kaggle.com/comp
 
 All solutions are located in the `test_solution_kaggle.ipynb`. The process of solution is explained in details. 
 
-Kaggle finale scor: 
+Kaggle final score: 
