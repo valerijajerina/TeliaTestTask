@@ -8,6 +8,6 @@ For sample task I've taken the only active NLP task: https://www.kaggle.com/comp
 
 All solutions are located in the `test_solution_kaggle.ipynb`. The process of solution is explained in details. 
 
-`kaggle` folder contains datasets and embedding file.
+`kaggle` folder contains datasets, originally it also contained embedding file, however it is to heavy to commit into Git. Here is the link for the file:  https://www.kaggle.com/datasets/authman/pickled-glove840b300d-for-10sec-loading
 
 Kaggle final score: 
